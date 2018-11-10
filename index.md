@@ -8,43 +8,63 @@
 ## _Nation University_ 
 ###### วันนี้ตัวผมจะมาบอกเล่าเรื่องการ ศึกษาภาษาโปรแกรมคอมพิวเตอร์ที่ผมเรื่องมานำเสนอในวันนี้
   
-  [![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/BrainFuck/BrainFuck.png)
+  # _BrainFuck_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/BrainFuck/BrainFuck.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/BrainFuck/BrainFuck.txt)
+> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
-**เรื่องที่ผมสนใจนั้นคือ**
+  # _Excel_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/Excel/Excel.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/Excel/Excel.txt)
+> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน Microsoft Excel ที่ละ บรรทัด หรือ จะทำพร้อมๆกันทั้งหมดก็ได้และเป้น ความรู้ใหม่ที่ผมได้ลองจากหลายๆ จุดของ Excel
 
-## [C#](http://mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/73-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/2184-c-%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9B-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3)
-##### C# คืออะไร
-* [C#](http://mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/73-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/2184-c-%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9B-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3) คือ ภาษาคอมพิวเตอร์ประเภท  object-oriented programming พัฒนาโดย  Microsoft โดยมีจุดมุ่งหมายในการวมความสามารถการคำนวณของ C++ ด้วยการโปรแกรมง่ายกว่าของ Visual Basic โดย C# มีพื้นฐานจาก C++ และเก็บส่วนการทำงานคล้ายกับ Java
+  # _JAVA_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/JAVA/java.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/JAVA/java.txt)
+> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
-[![Image](https://raw.githubusercontent.com/fulkkie24/CSharpHomeWork/master/marcuscode_XLgCGHrYlAfWpY2_1000.png)](https://github.com/fulkkie24/CSharpHomeWork)
+ # _JavaScript_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/JS/JS.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/JS/JS.txt)
+> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
-> เปรียบเทียบภาษา C# กับภาษาอื่นๆ
- > - 1.ถ้าพูดถึงความใกล้เคียงกับภาษาอื่นๆ ภาษา C# ใกล้เคียงกับภาษา Java มากที่สุด โดยมีความเหมือนกันถึง 70% ดั้งนั้นนักเขียนโปรแกรมภาษา Java จึงอาจย้ายมาเขียนภาษา C# ได้โดยศึกษาว่ามีสิ่งใดที่แตกต่างกันบ้าง ภาษา C# ยังมีความคล้ายคลึงกับภาษ C++.NET และภาษา VB.NET เป็นอย่างมาก ทำให้นักเขียนโปรแกรมภาษา C# สามารถอ่าน-เขียนโค้ดในภาษากลุ่มนี้ได้เมื่อฝึกฝนเพียงเล็กน้อย 
- > - 2.C# และภาษา Java ทั้งคู่เป็นแบบสืบจากคลาสหลักได้คลาสเดียว ขณะที่ภาษา C++ สามารถสืบจากคลาสหลักได้มากกว่าหนึ่ง (Multiple inheritance) โดยภาษา C# และภาษา Java ใช้ Interface มาทดแทน Multiple inheritance เหมือนกันทั้งคู่
- > - 3.สิ่งที่ภาษา C# และ Java มีร่วมกันคือเรื่อง Garbage Collection แต่ไม่มีใน C++ จึงทำให้ดูเหมือนว่าภาษา Java ต่อยอดมาจากภาษา C++ และ C# ต่อยอดมาจาก Java อีกที ที่เป็นเช่นนั้นเพราะทั้ง Java และ C# มีต้นสายมาจาก C++ ทำให้สองภาษานี้ดูคล้ายกัน แต่ภาษา C# ไม่ใช่ภาษา Java มันมีกลไกที่เป็นเอกลักษณ์หลายอย่าง
+# _MATLAB Or Octave_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/MATLABOctave/MATLAB%20Octave.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/MATLABOctave/MATLABOctave.txt)
+> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
-## ประสบการณ์
-### งานอดิเรก หรือ ความสามารถพิเศษ 
-- [x]  การลงโปรแกรมพื้นฐาน และการลง Windows   &#x1F537;
-- [x]  ด้านศิลปวัฒนธรรม ฟ้อนลายมือเชิง เชิงดาบ และ ดาบไฟ   &#x1F537;
-- [x]  กีต้าร์พื้นฐาน   &#x1F537;
-- [x]  ด้านมัลติมีเดี่ย ตัดต่อวิดีโอ   &#x1F537;
+# _MATLAB Or Octave_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/Morse/Morse.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/Morse/Morse.txt)
+> #### นับได้ว่าเป็นอีก 1ภาษาที่มีความน่าสนใจมากเพราะ เราอาจจะเคยพบเจอในหนังบ้างเป็นการส่งข้อความผ่านเสียงหรือ แสงขาวดำถ้าหากตัวผมจำไม่ผิดก็เป็นภาษาที่นักคอมพิวเตอร์ดราต้องเรียนู้ไว้เพราะมันสนุกอย่างมาก เป็นการ Run Code ผ่าน WebOnline ที่ให้บริการ 
 
-## แนะนำเพื่อน คนรู้จัก หนังสือที่ชอบ หรือแหล่งเรียนรู้
- *  จะแนะนะแหล่งเรียนรู้ เกี่ยวกับ ~~Text~~ ใน Github ลูกเล่นพื้นๆสำหรับใครที่อย่างจะลอง [คลิ๊ก](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-### รูปนี้กดได้นะ มีเทคนิคการทำรูปนี้ด้วยลองกดที่รูปดูสิ
-[![](http://via.placeholder.com/720x480/814CCC/ffffff&text="%20CSharpHomeWork")](https://github.com/ozh/github-colors/blob/master/README.md)
+# _PHP_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/PHP/PHP.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/PHP/PHP.txt)
+> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
-## ส่วนเพื่อนแนะนำอะคนนี้เลยครับ เพื่อนชายในคณะสาขาเพียงคนเดียวในตอนนี้เลย
+# _Perl_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/Perl/Perl.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/Perl/perl.txt)
+> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
-![Image](https://raw.githubusercontent.com/fulkkie24/CSharpHomeWork/master/Image/24775241_1448049001960001_4373445840658595687_n.jpg)
+# _PostScript_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/PostScript/PSt.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/PostScript/PsotScript.txt)
+> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
-### คนๆนี้หน่ะชื่อ Natthapat Kummoon ฮ่าๆ   &#x1F537;
+# _Pyrhon2_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/Pyrhon2/Python2.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/Pyrhon2/Python2.txt)
+> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
-# ส่วนอันนี้ส่งงานคราาาาาบผม
-![Image](https://raw.githubusercontent.com/fulkkie24/CSharpHomeWork/master/Image/40332106_241014773264997_3045420477615964160_n.jpg)
+# _Ruby_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/Ruby/Ruby.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/Ruby/Ruby.txt)
+> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
-
-
-
+# _Stata_
+  ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/Stata/Stata.png)
+> #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/Stata/Stata.txt)
+> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
