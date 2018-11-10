@@ -1,0 +1,5 @@
+loc i=1
+wh `i'<11 {
+di `i'
+loc i=`i'+1
+}
