@@ -1,5 +1,5 @@
 # HELLO &#x1F537;
-### สวัสดีครับ ยินดีตอนรับสู่ GitHub Page ของตัวผมเอง  
+### สวัสดีครับ ยินดีตอนรับสู่ GitHub Page ของตัวผมเอง เรื่อง  Source Code Number 1 to 10
 
 ###### ผมชื่อ นายวชิรศักดิ์ สายสูงธนาศักดิ์   &#x1F537;
 ###### เรียน คณะบริหารธุรกิจและรัฐประศาสนศาสตร์  &#x1F537;
@@ -21,19 +21,19 @@
   # _JAVA_
   ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/JAVA/java.png)
 > #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/JAVA/java.txt)
-> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
+> #### นับว่าเป็นภาษาที่คนทั่วโลกยังนิยมใช้กันอย่างมาก เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
  # _JavaScript_
   ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/JS/JS.png)
 > #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/JS/JS.txt)
-> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
+> #### เป้นภาษาที่มีการออกแบบที่สวยงามและง่ายต่อการเข้าใจเมื่อเราได้ทำการศึกษาภาษาตัวนี้แล้ว เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
 # _MATLAB Or Octave_
   ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/MATLABOctave/MATLAB%20Octave.png)
 > #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/MATLABOctave/MATLABOctave.txt)
 > #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
-# _MATLAB Or Octave_
+# _Morse_
   ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/Morse/Morse.png)
 > #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/Morse/Morse.txt)
 > #### นับได้ว่าเป็นอีก 1ภาษาที่มีความน่าสนใจมากเพราะ เราอาจจะเคยพบเจอในหนังบ้างเป็นการส่งข้อความผ่านเสียงหรือ แสงขาวดำถ้าหากตัวผมจำไม่ผิดก็เป็นภาษาที่นักคอมพิวเตอร์ดราต้องเรียนู้ไว้เพราะมันสนุกอย่างมาก เป็นการ Run Code ผ่าน WebOnline ที่ให้บริการ 
@@ -41,7 +41,7 @@
 # _PHP_
   ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/PHP/PHP.png)
 > #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/PHP/PHP.txt)
-> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
+> #### เป็นภาษายอดนิยมของโลกในปัจจุบันอีก 1ภาษาเช่นกันและ เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ 
 
 # _Perl_
   ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/Perl/Perl.png)
@@ -56,7 +56,7 @@
 # _Pyrhon2_
   ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/Pyrhon2/Python2.png)
 > #### กดตรงนี้เพื่อดู [Source Code ](https://github.com/fulkkie24/Source-Code-Number-1-to-10-/blob/master/Pyrhon2/Python2.txt)
-> #### เป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
+> #### ภาษานี้ยังเป็นภาษาที่มีนักศึกษาเริ่มตเนหลายๆคนที่ศึกษาอยู่เพื่อเป็นพื้นฐานในหลายๆด้าน รวมถึงเป็นอีก 1 ภาษาที่ตัวผมได้ทำการเลือกมาเพื่อศึกษาหาข้อมูลแล้ว Run Code ผ่าน WebOnline ที่ให้บริการ
 
 # _Ruby_
   ![Image](https://raw.githubusercontent.com/fulkkie24/Source-Code-Number-1-to-10-/master/Ruby/Ruby.png)
